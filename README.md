@@ -1,6 +1,6 @@
 
 ### <div align="center">I'm Rahul Chandak, full-stack developer 👨‍💻 coding since 2015 🚀</div>
-- 🔭 I’m currently working on GCP, Kubernetes, Java 11, SQL, Angular
+- 🔭 I’m currently working with GCP, Kubernetes, Java 21, SQL, Angular
 - 🌱 I’m currently learning Rust, sometimes React
 - ⚡ Fun fact: apples and oranges
 <br/>  
